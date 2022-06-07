@@ -1,7 +1,7 @@
 %undefine _disable_source_fetch
 
 Name:           umpkg
-Version:        0.3.3
+Version:        0.3.5
 Release:        2%{?dist}
 Summary:        The Ultramarine Packager tool
 URL:            https://ultramarine-linux.org
